@@ -1,0 +1,13 @@
+body
+{
+	background-color:#A2E8DA; 
+	font-family: "Times New Roman", Times, serif;
+	font-size:20px;
+	margin: 35px 150px;
+}
+img {
+	position: relative;
+}
+hr {
+	border-top: 5px solid #DAA2E8
+}
