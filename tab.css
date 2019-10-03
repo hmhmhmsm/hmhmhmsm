@@ -7,6 +7,7 @@ body
 }
 img {
 	position: relative;
+	width: 900px;
 }
 hr {
 	border-top: 5px solid #DAA2E8
